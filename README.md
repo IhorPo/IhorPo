@@ -7,4 +7,4 @@
 - <b>University Management System - Spring Boot App</b>
   - https://github.com/IhorPo/University
 - <b>Messenger</b>
-  - https://github.com/IhorPo/messenger
+  - https://github.com/IhorPo/Messenger
